@@ -1,0 +1,9 @@
+*.json
+*.txt
+/dist/*
+/__pycache__/*
+/build/*
+*.spec
+bookstore.adoc
+booktest.py
+foo.py
