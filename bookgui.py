@@ -46,7 +46,7 @@ layout =    [
             [sg.Text('', size=(100,1))]
             ]
 
-window = sg.Window('RJT Book Finder', layout, font='Calibri 10', default_element_size=(25,1)) #, location=(2700, 100))
+window = sg.Window('RJT Book Finder', layout, font='Calibri 10', default_element_size=(25,1)) #, location=(2700,100))
 
 while True:
     event, values = window.read()
